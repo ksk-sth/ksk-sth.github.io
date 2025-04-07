@@ -9,9 +9,9 @@ title: Kosuke Sato（佐藤 宏亮）
 first_name: Kosuke
 last_name: Sato
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 東北大学工学部電気情報物理工学科 4年
+role: 東北大学情報科学研究科 1年
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -53,7 +53,10 @@ education:
   - area: 工学部電気情報物理工学科
     institution: 東北大学
     date_start: 2021-04-01
-    # date_end: 2020-12-31
+    date_end: 2025-03-31
+  - area: 情報科学研究科システム情報科学専攻
+    institution: 東北大学
+    date-start: 2025-05-01
 #     summary: |
 #       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #     button:
@@ -139,13 +142,13 @@ education:
 #         percent: 80
 #         icon: camera
 
-# languages:
-#   - name: English
-#     percent: 100
-#   - name: Chinese
-#     percent: 75
-#   - name: Portuguese
-#     percent: 25
+languages:
+  - name: English
+    TOEIC: 820
+  # - name: Chinese
+  #   percent: 75
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
