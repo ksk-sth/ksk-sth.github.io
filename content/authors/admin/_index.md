@@ -18,7 +18,7 @@ organizations:
 
 profiles:
   - icon: at-symbol
-    url: 'mailto:mymail adress'
+    url: 'mailto:sato.kosuke.s7@dc.tohoku.ac.jp'
     label: E-mail Me
 
 interests:
